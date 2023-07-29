@@ -1,4 +1,8 @@
-- 👋 Hi, I’m TwaNA
-- 👀 I’m interested in Mobile Application development & Graphic Design.
-- 🌱 I’m currently learning Flutter & a little about Web development.
-- 📫 reach me on Instagram: @twanaabwbakr03
+- 👋 Hi, I’m Twana
+- I’m
+  - A Software Engineer
+  - A Flutter developer
+  - A UI/UX designer.
+- 📫 Reach me on:
+  - Instagram: @twanaabwbakr03
+  - LinkedIn: Twana Abwbakr
