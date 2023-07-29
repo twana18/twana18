@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Twana
-- I’m
-  - A Software Engineer
-  - A Flutter developer
-  - A UI/UX designer.
+- I’m a:
+  - Software Engineer
+  - Flutter developer
+  - UI/UX designer.
 - 📫 Reach me on:
   - Instagram: @twanaabwbakr03
   - LinkedIn: Twana Abwbakr
